@@ -19,7 +19,7 @@ The project contains the following set of problems and their solutions.
 6. [SRM_316_Div1_Hard_RoboRace](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/006_SRM_316_Div1_Hard_RoboRace.cpp)
 7. [SRM_371_Div1_Hard_RaceOrdering](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/007_SRM_371_Div1_Hard_RaceOrdering.cpp)
 8. [SRM_397_Div1_Hard_HouseProtection](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/008_SRM_397_Div1_Hard_HouseProtection.cpp)
-9. [SRM_358_Div1_SharksDinner](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/009_SRM_358_Div1_SharksDinner.cpp)
+9. [SRM_358_Div1_Hard_SharksDinner](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/009_SRM_358_Div1_Hard_SharksDinner.cpp)
 10. [SRM_313_Div1_Hard_BasketballStrategy](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/010_SRM_313_Div1_Hard_BasketballStrategy.cpp)
 11. [SRM_275_Div1_Hard_SantaClaus](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/011_SRM_275_Div1_Hard_SantaClaus.cpp)
 12. [SRM_210_Div1_Hard_NegativePhotoresist](https://github.com/AHMAD7Y/ProblemSolving/blob/main/TopCoder%20Problems%20-%20Div%201%20Hard/012_SRM_210_Div1_Hard_NegativePhotoresist.cpp)
